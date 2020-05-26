@@ -1,0 +1,10 @@
+
+.bigbold {
+    font-weight: bold;
+    color: teal;
+}
+.name { color: black;
+    background: teal;
+    padding: 30px 15px;
+    
+}
